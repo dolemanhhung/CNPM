@@ -25,9 +25,11 @@
    
    ![](https://github.com/dolemanhhung/CNPM/blob/36ff81a8316b68ab844bcb00509463d6f00aec83/Picture1.png)
    
-   - Về sản phẩm:
-         
-         * Giới thiệu sản phẩm:
-         
-         * Demo sản phẩm:
+  - Về sản phẩm:
+            
+       - Giới thiệu sản phẩm:
+       - Demo sản phẩm:  
+            * Dưới dạng video: [click here](https://www.youtube.com/watch?v=ZOMAHd7jRbg)
+        
+        
 
