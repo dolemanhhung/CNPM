@@ -24,8 +24,8 @@
                 * Không thể đánh giá phim
                 * Không thể comment 
 
-- Về sản phẩm:
-      
-      - Giới thiệu sản phẩm:
-      - Demo sản phẩm: 
-         * Dưới dạng video: [click here](https://www.youtube.com/watch?v=ZOMAHd7jRbg)
+   - Về sản phẩm:
+            
+       - Giới thiệu sản phẩm:
+       - Demo sản phẩm:  
+            * Dưới dạng video: [click here](https://www.youtube.com/watch?v=ZOMAHd7jRbg)
