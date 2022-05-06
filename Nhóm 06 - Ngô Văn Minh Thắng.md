@@ -12,5 +12,7 @@
    
 
 - Về sản phẩm:
-   1. Giới thiệu sản phẩm:
-   2. Demo sản phẩm: 
+            
+   - Giới thiệu sản phẩm:
+   - Demo sản phẩm:  
+       * Dưới dạng video: [click here](https://www.youtube.com/watch?v=ZOMAHd7jRbg)
