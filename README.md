@@ -71,7 +71,7 @@
 - Nguyễn Tuấn Nam: Front-end Developer - (20%)
 - Ngô Văn Minh Thắng: Front-end Developer - (20%)
 - Nguyễn Quang Minh: Thiết kế cơ sở dữ liệu - (20%)
-- Đỗ Lê Mạnh Hùng: Thiết kế dữ liệu phim và kiểm thử - (20%)
+- Đỗ Lê Mạnh Hùng: Thiết kế dữ liệu phim, kiểm thử, viết  - (20%)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
