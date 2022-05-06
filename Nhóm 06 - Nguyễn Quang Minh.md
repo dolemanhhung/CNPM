@@ -9,7 +9,7 @@
 - [Báo cáo sản phẩm](https://docs.google.com/document/d/1DRPeFX_h7-ul2MFgwT-dNL6u4Mp4Hdm8NatMjZZ2mQg/edit?usp=sharing)
 - Chi tiết quá trình thực hiện:
 
-      * Sau khi nhận được code, em bắt đầu tìm hiểu về code có những phần nào và trong mỗi phần lại có những mục gì, từ đó vẽ cấu trúc dữ liệu cho từng phần bằng công cụ ERD Plus.
+    * Sau khi nhận được code, em bắt đầu tìm hiểu về code có những phần nào và trong mỗi phần lại có những mục gì, từ đó vẽ cấu trúc dữ liệu cho từng phần bằng công cụ ERD Plus.
 
            * Timeline:
           - 13/03: Nhận code từ bạn Hiệp.
@@ -25,5 +25,7 @@
 
 
 - Về sản phẩm:
-   1. Giới thiệu sản phẩm:
-   2. Demo sản phẩm: 
+       
+     - Giới thiệu sản phẩm:
+     - Demo sản phẩm: 
+          * Dưới dạng video: [click here](https://www.youtube.com/watch?v=ZOMAHd7jRbg) 
