@@ -14,11 +14,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## THÀNH VIÊN
-- Đỗ Lê Mạnh Hùng - 20020322 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/05c0398dac21a8f3cb09bdf5a32da6e597ba39ca/Nh%C3%B3m%2006%20-%20%C4%90%E1%BB%97%20L%C3%AA%20M%E1%BA%A1nh%20H%C3%B9ng.md)
-- Nguyễn Quang Minh - 20020146 - [Báo cáo cá nhân](Nhóm 06 - Nguyễn Quang Minh.md)
-- Nguyễn Ngọc Hiệp - 20021349 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/05c0398dac21a8f3cb09bdf5a32da6e597ba39ca/Nh%C3%B3m%2006%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Hi%E1%BB%87p.md)
-- Nguyễn Tuấn Nam - 20021398 - [Báo cáo cá nhân]()
-- Ngô Văn Minh Thắng - 20020155 - [Báo cáo cá nhân]()
+- Đỗ Lê Mạnh Hùng - 20020322 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/769cef54e50deb80008f7b430e9cd422ca9be028/B%C3%A1o%20c%C3%A1o%20c%C3%A1%20nh%C3%A2n.md)
+- Nguyễn Quang Minh - 20020146 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/ff342cce60edb079910a4e9c6c331faab007b5cb/Nh%C3%B3m%2006%20-%20Nguy%E1%BB%85n%20Quang%20Minh.md)
+- Nguyễn Ngọc Hiệp - 20021349 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/ff342cce60edb079910a4e9c6c331faab007b5cb/Nh%C3%B3m%2006%20-%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Hi%E1%BB%87p.md)
+- Nguyễn Tuấn Nam - 20021398 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/ff342cce60edb079910a4e9c6c331faab007b5cb/Nh%C3%B3m%2006%20-%20Nguy%E1%BB%85n%20Tu%E1%BA%A5n%20Nam.md)
+- Ngô Văn Minh Thắng - 20020155 - [Báo cáo cá nhân](https://github.com/dolemanhhung/CNPM/blob/ff342cce60edb079910a4e9c6c331faab007b5cb/Nh%C3%B3m%2006%20-%20Ng%C3%B4%20V%C4%83n%20Minh%20Th%E1%BA%AFng.md)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
