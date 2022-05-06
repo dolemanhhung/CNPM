@@ -53,7 +53,7 @@
 3. Mở cmd, chạy câu lệnh npm
 4. Nhập  http://localhost:3000 vào trình duyệt và Enter 
 5. Ở giao diện web, chọn những phim mới, phim hay được đề xuất trên web, nếu muốn tìm phim cụ thể, nhập tên phim vào thanh tìm kiếm của trang web.
-6. Tận hưởng phim
+6. Chọn phim
 7. Tìm thêm [tại đây](https://github.com/hiepuet1205/btl_cnpm/blob/216d46cab7c60234f1f6092c88f4e9c78ad0dc6b/frontend/README.md)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -71,7 +71,7 @@
 - Nguyễn Tuấn Nam: Front-end Developer - (20%)
 - Ngô Văn Minh Thắng: Front-end Developer - (20%)
 - Nguyễn Quang Minh: Thiết kế cơ sở dữ liệu - (20%)
-- Đỗ Lê Mạnh Hùng: Thiết kế dữ liệu phim, kiểm thử, viết  - (20%)
+- Đỗ Lê Mạnh Hùng: Thiết kế dữ liệu phim, kiểm thử, viết báo cáo - (20%)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
